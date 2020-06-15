@@ -1,0 +1,13 @@
+{
+  "name": "mslearning-chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "xmlbuilder": "^15.1.1"
+  }
+}
